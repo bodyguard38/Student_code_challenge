@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d685ff8-f317-4ee9-9f85-a107c7f51bda" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson04/Q12_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson04/Q12_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson04/Q13_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson04/Q13_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson05/Q01_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson05/Q01_Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,33 +48,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q11_Count">
-    <configuration name="Q07_DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson04.Q07_DoWhile" />
-      <module name="ClarusJavaCodeChallengeWinter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q08_Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson04.Q08_Continue" />
-      <module name="ClarusJavaCodeChallengeWinter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q13_Arrays">
     <configuration name="Q09_Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson04.Q09_Break" />
       <module name="ClarusJavaCodeChallengeWinter" />
@@ -112,13 +88,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q12_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson04.Q12_Arrays" />
+      <module name="ClarusJavaCodeChallengeWinter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q13_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson04.Q13_Arrays" />
+      <module name="ClarusJavaCodeChallengeWinter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q13_Arrays" />
+        <item itemvalue="Application.Q12_Arrays" />
         <item itemvalue="Application.Q11_Count" />
         <item itemvalue="Application.Q10_Label" />
         <item itemvalue="Application.Q09_Break" />
-        <item itemvalue="Application.Q08_Continue" />
-        <item itemvalue="Application.Q07_DoWhile" />
       </list>
     </recent_temporary>
   </component>
